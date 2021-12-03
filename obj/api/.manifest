@@ -1,0 +1,7 @@
+{
+  "CTrxHal": "CTrxHal.yml",
+  "CTrxHal.CBoardIO": "CTrxHal.CBoardIO.yml",
+  "CTrxHal.CComSerie": "CTrxHal.CComSerie.yml",
+  "CTrxHal.CComTcp": "CTrxHal.CComTcp.yml",
+  "CTrxHal.CMotor": "CTrxHal.CMotor.yml"
+}

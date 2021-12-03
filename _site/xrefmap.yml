@@ -1,0 +1,33 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CTrxHal
+  name: CTrxHal
+  href: api/CTrxHal.html
+  commentId: N:CTrxHal
+  fullName: CTrxHal
+  nameWithType: CTrxHal
+- uid: CTrxHal.CBoardIO
+  name: CBoardIO
+  href: api/CTrxHal.CBoardIO.html
+  commentId: T:CTrxHal.CBoardIO
+  fullName: CTrxHal.CBoardIO
+  nameWithType: CBoardIO
+- uid: CTrxHal.CComSerie
+  name: CComSerie
+  href: api/CTrxHal.CComSerie.html
+  commentId: T:CTrxHal.CComSerie
+  fullName: CTrxHal.CComSerie
+  nameWithType: CComSerie
+- uid: CTrxHal.CComTcp
+  name: CComTcp
+  href: api/CTrxHal.CComTcp.html
+  commentId: T:CTrxHal.CComTcp
+  fullName: CTrxHal.CComTcp
+  nameWithType: CComTcp
+- uid: CTrxHal.CMotor
+  name: CMotor
+  href: api/CTrxHal.CMotor.html
+  commentId: T:CTrxHal.CMotor
+  fullName: CTrxHal.CMotor
+  nameWithType: CMotor

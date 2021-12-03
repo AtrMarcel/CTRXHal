@@ -1,0 +1,12 @@
+### YamlMime:TableOfContent
+- uid: CTrxHal
+  name: CTrxHal
+  items:
+  - uid: CTrxHal.CBoardIO
+    name: CBoardIO
+  - uid: CTrxHal.CComSerie
+    name: CComSerie
+  - uid: CTrxHal.CComTcp
+    name: CComTcp
+  - uid: CTrxHal.CMotor
+    name: CMotor

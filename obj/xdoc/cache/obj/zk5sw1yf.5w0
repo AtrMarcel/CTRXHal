@@ -1,0 +1,566 @@
+id: CHandler
+language: CSharp
+name:
+  Default: CHandler
+qualifiedName:
+  Default: CHandler
+type: Assembly
+modifiers: {}
+items:
+- id: CTrxHal
+  commentId: N:CTrxHal
+  language: CSharp
+  name:
+    CSharp: CTrxHal
+    VB: CTrxHal
+  nameWithType:
+    CSharp: CTrxHal
+    VB: CTrxHal
+  qualifiedName:
+    CSharp: CTrxHal
+    VB: CTrxHal
+  type: Namespace
+  assemblies:
+  - CHandler
+  modifiers: {}
+  items:
+  - id: CTrxHal.CBoardIO
+    commentId: T:CTrxHal.CBoardIO
+    language: CSharp
+    name:
+      CSharp: CBoardIO
+      VB: CBoardIO
+    nameWithType:
+      CSharp: CBoardIO
+      VB: CBoardIO
+    qualifiedName:
+      CSharp: CTrxHal.CBoardIO
+      VB: CTrxHal.CBoardIO
+    type: Class
+    assemblies:
+    - CHandler
+    namespace: CTrxHal
+    source:
+      remote:
+        path: D:/PROJETS/SharpProjects/CHandler/CBoardIO.cs
+      id: CBoardIO
+      path: CBoardIO.cs
+      startLine: 7
+    syntax:
+      content:
+        CSharp: public class CBoardIO
+        VB: Public Class CBoardIO
+    inheritance:
+    - System.Object
+    inheritedMembers:
+    - System.Object.ToString
+    - System.Object.Equals(System.Object)
+    - System.Object.Equals(System.Object,System.Object)
+    - System.Object.ReferenceEquals(System.Object,System.Object)
+    - System.Object.GetHashCode
+    - System.Object.GetType
+    - System.Object.MemberwiseClone
+    modifiers:
+      CSharp:
+      - public
+      - class
+      VB:
+      - Public
+      - Class
+    items: []
+  - id: CTrxHal.CComSerie
+    commentId: T:CTrxHal.CComSerie
+    language: CSharp
+    name:
+      CSharp: CComSerie
+      VB: CComSerie
+    nameWithType:
+      CSharp: CComSerie
+      VB: CComSerie
+    qualifiedName:
+      CSharp: CTrxHal.CComSerie
+      VB: CTrxHal.CComSerie
+    type: Class
+    assemblies:
+    - CHandler
+    namespace: CTrxHal
+    source:
+      remote:
+        path: D:/PROJETS/SharpProjects/CHandler/CComSerie.cs
+      id: CComSerie
+      path: CComSerie.cs
+      startLine: 7
+    syntax:
+      content:
+        CSharp: public class CComSerie
+        VB: Public Class CComSerie
+    inheritance:
+    - System.Object
+    inheritedMembers:
+    - System.Object.ToString
+    - System.Object.Equals(System.Object)
+    - System.Object.Equals(System.Object,System.Object)
+    - System.Object.ReferenceEquals(System.Object,System.Object)
+    - System.Object.GetHashCode
+    - System.Object.GetType
+    - System.Object.MemberwiseClone
+    modifiers:
+      CSharp:
+      - public
+      - class
+      VB:
+      - Public
+      - Class
+    items: []
+  - id: CTrxHal.CComTcp
+    commentId: T:CTrxHal.CComTcp
+    language: CSharp
+    name:
+      CSharp: CComTcp
+      VB: CComTcp
+    nameWithType:
+      CSharp: CComTcp
+      VB: CComTcp
+    qualifiedName:
+      CSharp: CTrxHal.CComTcp
+      VB: CTrxHal.CComTcp
+    type: Class
+    assemblies:
+    - CHandler
+    namespace: CTrxHal
+    source:
+      remote:
+        path: D:/PROJETS/SharpProjects/CHandler/CComTcp.cs
+      id: CComTcp
+      path: CComTcp.cs
+      startLine: 7
+    syntax:
+      content:
+        CSharp: public class CComTcp
+        VB: Public Class CComTcp
+    inheritance:
+    - System.Object
+    inheritedMembers:
+    - System.Object.ToString
+    - System.Object.Equals(System.Object)
+    - System.Object.Equals(System.Object,System.Object)
+    - System.Object.ReferenceEquals(System.Object,System.Object)
+    - System.Object.GetHashCode
+    - System.Object.GetType
+    - System.Object.MemberwiseClone
+    modifiers:
+      CSharp:
+      - public
+      - class
+      VB:
+      - Public
+      - Class
+    items: []
+  - id: CTrxHal.CMotor
+    commentId: T:CTrxHal.CMotor
+    language: CSharp
+    name:
+      CSharp: CMotor
+      VB: CMotor
+    nameWithType:
+      CSharp: CMotor
+      VB: CMotor
+    qualifiedName:
+      CSharp: CTrxHal.CMotor
+      VB: CTrxHal.CMotor
+    type: Class
+    assemblies:
+    - CHandler
+    namespace: CTrxHal
+    source:
+      remote:
+        path: D:/PROJETS/SharpProjects/CHandler/CMotor.cs
+      id: CMotor
+      path: CMotor.cs
+      startLine: 7
+    syntax:
+      content:
+        CSharp: public class CMotor
+        VB: Public Class CMotor
+    inheritance:
+    - System.Object
+    inheritedMembers:
+    - System.Object.ToString
+    - System.Object.Equals(System.Object)
+    - System.Object.Equals(System.Object,System.Object)
+    - System.Object.ReferenceEquals(System.Object,System.Object)
+    - System.Object.GetHashCode
+    - System.Object.GetType
+    - System.Object.MemberwiseClone
+    modifiers:
+      CSharp:
+      - public
+      - class
+      VB:
+      - Public
+      - Class
+    items: []
+references:
+  System:
+    name:
+      CSharp:
+      - name: System
+        nameWithType: System
+        qualifiedName: System
+        isExternal: true
+      VB:
+      - name: System
+        nameWithType: System
+        qualifiedName: System
+    isDefinition: true
+    commentId: N:System
+  System.Object:
+    name:
+      CSharp:
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      VB:
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+    isDefinition: true
+    parent: System
+    commentId: T:System.Object
+  System.Object.ToString:
+    name:
+      CSharp:
+      - id: System.Object.ToString
+        name: ToString
+        nameWithType: Object.ToString
+        qualifiedName: System.Object.ToString
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.ToString
+        name: ToString
+        nameWithType: Object.ToString
+        qualifiedName: System.Object.ToString
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.ToString
+  System.Object.Equals(System.Object):
+    name:
+      CSharp:
+      - id: System.Object.Equals(System.Object)
+        name: Equals
+        nameWithType: Object.Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.Equals(System.Object)
+        name: Equals
+        nameWithType: Object.Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.Equals(System.Object)
+  System.Object.Equals(System.Object,System.Object):
+    name:
+      CSharp:
+      - id: System.Object.Equals(System.Object,System.Object)
+        name: Equals
+        nameWithType: Object.Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        nameWithType: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.Equals(System.Object,System.Object)
+        name: Equals
+        nameWithType: Object.Equals
+        qualifiedName: System.Object.Equals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        nameWithType: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.Equals(System.Object,System.Object)
+  System.Object.ReferenceEquals(System.Object,System.Object):
+    name:
+      CSharp:
+      - id: System.Object.ReferenceEquals(System.Object,System.Object)
+        name: ReferenceEquals
+        nameWithType: Object.ReferenceEquals
+        qualifiedName: System.Object.ReferenceEquals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        nameWithType: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.ReferenceEquals(System.Object,System.Object)
+        name: ReferenceEquals
+        nameWithType: Object.ReferenceEquals
+        qualifiedName: System.Object.ReferenceEquals
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: ', '
+        nameWithType: ', '
+        qualifiedName: ', '
+      - id: System.Object
+        name: Object
+        nameWithType: Object
+        qualifiedName: System.Object
+        isExternal: true
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.ReferenceEquals(System.Object,System.Object)
+  System.Object.GetHashCode:
+    name:
+      CSharp:
+      - id: System.Object.GetHashCode
+        name: GetHashCode
+        nameWithType: Object.GetHashCode
+        qualifiedName: System.Object.GetHashCode
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.GetHashCode
+        name: GetHashCode
+        nameWithType: Object.GetHashCode
+        qualifiedName: System.Object.GetHashCode
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.GetHashCode
+  System.Object.GetType:
+    name:
+      CSharp:
+      - id: System.Object.GetType
+        name: GetType
+        nameWithType: Object.GetType
+        qualifiedName: System.Object.GetType
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.GetType
+        name: GetType
+        nameWithType: Object.GetType
+        qualifiedName: System.Object.GetType
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.GetType
+  System.Object.MemberwiseClone:
+    name:
+      CSharp:
+      - id: System.Object.MemberwiseClone
+        name: MemberwiseClone
+        nameWithType: Object.MemberwiseClone
+        qualifiedName: System.Object.MemberwiseClone
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+      VB:
+      - id: System.Object.MemberwiseClone
+        name: MemberwiseClone
+        nameWithType: Object.MemberwiseClone
+        qualifiedName: System.Object.MemberwiseClone
+        isExternal: true
+      - name: (
+        nameWithType: (
+        qualifiedName: (
+      - name: )
+        nameWithType: )
+        qualifiedName: )
+    isDefinition: true
+    parent: System.Object
+    commentId: M:System.Object.MemberwiseClone
+  CTrxHal.CBoardIO:
+    name:
+      CSharp:
+      - id: CTrxHal.CBoardIO
+        name: CBoardIO
+        nameWithType: CBoardIO
+        qualifiedName: CTrxHal.CBoardIO
+      VB:
+      - id: CTrxHal.CBoardIO
+        name: CBoardIO
+        nameWithType: CBoardIO
+        qualifiedName: CTrxHal.CBoardIO
+    isDefinition: true
+    commentId: T:CTrxHal.CBoardIO
+  CTrxHal.CComSerie:
+    name:
+      CSharp:
+      - id: CTrxHal.CComSerie
+        name: CComSerie
+        nameWithType: CComSerie
+        qualifiedName: CTrxHal.CComSerie
+      VB:
+      - id: CTrxHal.CComSerie
+        name: CComSerie
+        nameWithType: CComSerie
+        qualifiedName: CTrxHal.CComSerie
+    isDefinition: true
+    commentId: T:CTrxHal.CComSerie
+  CTrxHal.CComTcp:
+    name:
+      CSharp:
+      - id: CTrxHal.CComTcp
+        name: CComTcp
+        nameWithType: CComTcp
+        qualifiedName: CTrxHal.CComTcp
+      VB:
+      - id: CTrxHal.CComTcp
+        name: CComTcp
+        nameWithType: CComTcp
+        qualifiedName: CTrxHal.CComTcp
+    isDefinition: true
+    commentId: T:CTrxHal.CComTcp
+  CTrxHal.CMotor:
+    name:
+      CSharp:
+      - id: CTrxHal.CMotor
+        name: CMotor
+        nameWithType: CMotor
+        qualifiedName: CTrxHal.CMotor
+      VB:
+      - id: CTrxHal.CMotor
+        name: CMotor
+        nameWithType: CMotor
+        qualifiedName: CTrxHal.CMotor
+    isDefinition: true
+    commentId: T:CTrxHal.CMotor
+  CTrxHal:
+    name:
+      CSharp:
+      - name: CTrxHal
+        nameWithType: CTrxHal
+        qualifiedName: CTrxHal
+      VB:
+      - name: CTrxHal
+        nameWithType: CTrxHal
+        qualifiedName: CTrxHal
+    isDefinition: true
+    commentId: N:CTrxHal

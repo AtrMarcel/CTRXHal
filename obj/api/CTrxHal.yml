@@ -1,0 +1,40 @@
+### YamlMime:ManagedReference
+items:
+- uid: CTrxHal
+  commentId: N:CTrxHal
+  id: CTrxHal
+  children:
+  - CTrxHal.CBoardIO
+  - CTrxHal.CComSerie
+  - CTrxHal.CComTcp
+  - CTrxHal.CMotor
+  langs:
+  - csharp
+  - vb
+  name: CTrxHal
+  nameWithType: CTrxHal
+  fullName: CTrxHal
+  type: Namespace
+  assemblies:
+  - CHandler
+references:
+- uid: CTrxHal.CBoardIO
+  commentId: T:CTrxHal.CBoardIO
+  name: CBoardIO
+  nameWithType: CBoardIO
+  fullName: CTrxHal.CBoardIO
+- uid: CTrxHal.CComSerie
+  commentId: T:CTrxHal.CComSerie
+  name: CComSerie
+  nameWithType: CComSerie
+  fullName: CTrxHal.CComSerie
+- uid: CTrxHal.CComTcp
+  commentId: T:CTrxHal.CComTcp
+  name: CComTcp
+  nameWithType: CComTcp
+  fullName: CTrxHal.CComTcp
+- uid: CTrxHal.CMotor
+  commentId: T:CTrxHal.CMotor
+  name: CMotor
+  nameWithType: CMotor
+  fullName: CTrxHal.CMotor
